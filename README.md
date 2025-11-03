@@ -1,6 +1,6 @@
-# PHP Learning Repository
+# PHP learning repository
 
-This repository contains PHP code intended for learning and practicing PHP concepts. It covers various topics from basic syntax and data structures to more advanced concepts like forms, file uploading, sessions, and database interaction.
+This repository contains PHP code intended for learning and practicing PHP concepts. It covers various topics from basic syntax and data structures to more advanced concepts like forms, file uploading, sessions and database interaction.
 
 ## Table of Contents
 
