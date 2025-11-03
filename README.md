@@ -9,5 +9,5 @@ This repository contains PHP code intended for learning and practicing PHP conce
 ## Dependencies
 
 -   PHP (version 7.0 or higher recommended)
--   MySQL (for the login application example)
+-   MySQL (Relational database management system)
 -   A web server (e.g., Apache)
